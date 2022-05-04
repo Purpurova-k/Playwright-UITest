@@ -1,4 +1,5 @@
 /user.js
+playwright-report/
 
 .vscode/*
 !.vscode/settings.json
