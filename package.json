@@ -6,7 +6,8 @@
   "scripts": {
     "test": "npx playwright test",
     "eslint": "eslint",
-    "prettier": "prettier"
+    "prettier": "prettier",
+    "codegen": "npx playwright codegen --timeout 1000000 netology.ru"
   },
   "repository": {
     "type": "git",
